@@ -4,6 +4,9 @@ This python project is intended to be used to generate estimates of extreme rain
 2. A parabolic method in log-normal scale as per Hill et al. (2000)
 3. An inverse cumulative distribution function for the generalised extreme value (GEV) distribution as per Sharpe (2024)
 
+![Extreme rainfall interpolation](https://github.com/user-attachments/assets/8a445bb2-fe58-4a31-a6e3-21960e1bc837)
+
+
 # Disclaimer
 There is no guarantee that the methods have been applied correctly and users should satisfy themselves that the outputs are accurate by checking the code and/or cross-checking against another calculation (like spreadsheet-based calculations).
 
